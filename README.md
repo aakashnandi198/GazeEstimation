@@ -9,3 +9,6 @@ gives the coefficient of the quadratic equation used to map the pupil coordinate
 
 The gaze folder contains "calibrator.cpp" is the actual gaze estimation code. It already has the coefficients hardcoded in it
 and hence the code will run for screen size of 13" to 15".
+
+Please find the video of the implementation runtime at :
+https://www.youtube.com/watch?v=PmJ6Za4cD-s
